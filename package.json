@@ -1,0 +1,14 @@
+{
+  "name": "IPv4ToInteger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "IPv4ToInteger.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^22.0.6"
+  }
+}
